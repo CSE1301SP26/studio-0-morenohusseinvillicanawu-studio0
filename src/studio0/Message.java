@@ -6,5 +6,3 @@ public class Message {
 		System.out.println(" theasdl;fk   l;k j workshop! ");
 	}   
 }
-
-hello!!!!
